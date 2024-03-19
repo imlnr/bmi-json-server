@@ -10,6 +10,14 @@
         }
     ],
     "userdata": [
-        {}
+        {
+            "id": 1,
+            "name": "M Laxminarayan Reddy",
+            "age": 22,
+            "height": 5.8,
+            "weight": 66,
+            "loghistory": {},
+            "bmihistory": {}
+        }
     ]
 }
