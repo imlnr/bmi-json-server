@@ -6,6 +6,8 @@
             "email": "imlnr2002@gmail.com",
             "age": 22,
             "phone": 8917410020,
+            "gender":"male",
+            "dob":"22/01/2002",
             "image": "https://media.licdn.com/dms/image/D5603AQE4rUFgtVuuIQ/profile-displayphoto-shrink_800_800/0/1707163924193?e=2147483647&v=beta&t=fao9PfZMYieWDRT4TN4pU8cqS3X8cnHD_7UHMozRnMA",
             "password": "drowssaP@123"
         }
