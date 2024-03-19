@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "M Laxminarayan Reddy",
+            "email": "imlnr2002@gmail.com",
+            "age": 22,
+            "phone": 8917410020,
+            "password": "drowssaP@123"
+        }
+    ],
+    "userdata": [
+        {}
+    ]
+}
